@@ -1,8 +1,8 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Tuan Ngo</h1>
+<h1 align="left">:wave: Hello there! I'm Tuan Ngo</h1>
 <h3 align="left">I am a 2nd-year Master student and also a full-time researcher at VNU-UET, Vietnam</h3>
 
-<a href="#macropower-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuanngokien&show_icons=true&theme=transparent&include_all_commits=true&card_width=300" alt="My Github Stats" align="right" />
+<a href="https://github.com/tuanngokien/">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuanngokien&show_icons=true&include_all_commits=true&card_width=300" alt="My Github Stats" align="right" />
 </a>
 
 
@@ -16,7 +16,7 @@
 </p>
 
 - :office: &nbsp;I'm currently working at **[VNU-UET]**
-- :computer: &nbsp;My research interests are Software Engineering, especially Software Testing and Software Security
+- :computer: &nbsp;My research interests are *Software Engineering*, especially *Software Testing* and *Software Security*
 - 🌐 &nbsp;Find more about me at my **[Portfolio Website]**
 - :mailbox: &nbsp;Connect with me on **[LinkedIn]**
 
