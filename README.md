@@ -2,7 +2,7 @@
 <h3 align="left">I am a 2nd-year Master student and also a full-time researcher at VNU-UET, Vietnam</h3>
 
 <a href="#macropower-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuanngokien&show_icons=true&theme=transparent" alt="macropower" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tuanngokien&show_icons=true&theme=transparent&include_all_commits=true&card_width=300" alt="My Github Stats" align="right" />
 </a>
 
 
