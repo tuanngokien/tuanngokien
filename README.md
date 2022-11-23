@@ -16,7 +16,7 @@
 </p>
 
 - :office: &nbsp;I'm currently working at **[VNU-UET]**
-- :computer: &nbsp;My research interests are *Software Engineering*, especially *Software Testing* and *Software Security*
+- :computer: &nbsp;My research interests are *Software Engineering*, especially *Software Testing* and *Software Security*.
 - 🌐 &nbsp;Find more about me on my **[Portfolio Website]**
 - :mailbox: &nbsp;Connect with me on **[LinkedIn]**
 
