@@ -2,7 +2,7 @@
 <h3 align="left">I am a 2nd-year Master student and also a full-time researcher at VNU-UET, Vietnam</h3>
 
 <a href="https://github.com/tuanngokien/">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuanngokien&show_icons=true&include_all_commits=true&card_width=300&theme=default&bg_color=ffffff00" alt="My Github Stats" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tuanngokien&show_icons=true&include_all_commits=true&card_width=400&theme=default&bg_color=ffffff00" alt="My Github Stats" align="right" />
 </a>
 
 
