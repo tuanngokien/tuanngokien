@@ -15,15 +15,14 @@
   </a>
 </p>
 
-- :office: &nbsp;I'm currently working as graduate research assistant at **[USC]**
-- :computer: &nbsp;My research interests are *Software Engineering*, especially *Software Testing* and *Software Security*.
-- 🌐 &nbsp;Find more about me on my **[Portfolio Website]**
-- :mailbox: &nbsp;Connect with me on **[LinkedIn]**
+- :office: &nbsp;Currently working as a graduate research assistant at USC, blending research experience in software engineering across Vietnam, Japan, and the US.
+- :computer: &nbsp;Specializing in *Software Engineering*, with a focus on *Software Testing* and *Software Security*. Dedicated to bridging theory and practice to enhance software reliability and security.
+- 🌐 &nbsp;Open to collaboration. Learn more about me on **[Portfolio Page]** or connect with me on **[LinkedIn]**.
 
 <br>
 
 <!-- links -->
 
 [VNU-UET]: https://uet.vnu.edu.vn/en
-[Portfolio Website]: https://tuanngokien.github.io/
+[Portfolio Page]: https://tuanngokien.github.io/
 [linkedin]: https://www.linkedin.com/in/tuanngokien/
